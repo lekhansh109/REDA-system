@@ -1,0 +1,18 @@
+[DEFAULT]
+
+dirname = ALuxury
+
+learning_rate = 0.001
+epochs = 1
+
+
+batch_size = 10000
+
+vec_size = 64
+memory_size = 20
+K = 3
+weight_size = 10
+
+start_epoch = 2
+inter_epoch = 30
+
